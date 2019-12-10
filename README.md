@@ -1,5 +1,5 @@
 # Telephone Call Router - Java Application
-A simple _**java application**_ that can handle any number of price lists (_operators_) and then can calculate which operator that is cheapest for a certain number. 
+A simple _**Java Application**_ that can handle any number of price lists (_operators_) and then can calculate which operator that is cheapest for a certain number. 
 
 ## System Requirements
 
