@@ -7,32 +7,32 @@ A simple _**java application**_ that can handle any number of price lists (_oper
 Some telephone operators have submitted their price lists including price per minute for different phone number prefixes. The price lists look like this:
 
 ### Operator A:
-1	        0.9
+1 --------- 0.9
 
-268	        5.1
+268	----------- 5.1
 
-46	        0.17
+46 ------------ 0.17
 
-4620	    0.0
+4620 ---------- 0.0
 
-468	        0.15
+468 ----------- 0.15
 
-4631	    0.15
+4631 ---------- 0.15
 
-4673	    0.9
+4673 ---------- 0.9
 
-46732	    1.1
+46732 --------- 1.1
 
 ### Operator B:
-1	        0.92
+1 ----------- 0.92
 
-44	        0.5
+44 ---------- 0.5
 
-46	        0.2
+46 ---------- 0.2
 
-467	        1.0
+467 --------- 1.0
 
-48	        1.2
+48 ---------- 1.2
 
 And so on...
 
