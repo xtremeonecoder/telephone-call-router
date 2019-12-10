@@ -64,7 +64,7 @@ I developed this project as per given instruction manual. Some necessary informa
 ### Programming Language: JAVA
 
 ### Java Version:
-![Java version used in the application]{https://github.com/xtremeonecoder/telephone-call-router-java/blob/master/documentation/Programming-Environment.jpg}
+![Java version used in the application](https://github.com/xtremeonecoder/telephone-call-router-java/blob/master/documentation/Programming-Environment.jpg)
 
 ### Used IDE
 I have developed, executed and tested the project using NetBeans IDE 8.2. I would recommend the same environment for testing.
@@ -79,4 +79,4 @@ _**ProgrammingExercise => src => programmingexercise => ProgrammingExercise.java
 ### Testing Instruction
 Initially two operators (_Operator-A & Operator-B_) are given. If you want to test the script with more operators’ data (_Operator-C & Operator-D_), then please uncomment the following commented code lines of function: _**getTelephoneOperators()**_.
 
-![Commented extra data for testing the application]{https://github.com/xtremeonecoder/telephone-call-router-java/blob/master/documentation/Extra-Data-for-Testing.jpg}
+![Commented extra data for testing the application](https://github.com/xtremeonecoder/telephone-call-router-java/blob/master/documentation/Extra-Data-for-Testing.jpg)
